@@ -3,7 +3,7 @@ from datetime import datetime
 
 DB_URL = 'postgresql://postgres:postgres@localhost:5432/postgres'
 SOURCE_DATA_DIR = 'C:/Users/bidem/Projects/git/cars_info_scraper/data'
-ARCHIVE_DATA_DIR = 'C:/Users/bidem/Projects/git/cars_info_loader/data/imported'
+ARCHIVE_DATA_DIR = 'C:/Users/bidem/Projects/git/cars_info_loader/data'
 CARS_INFO_TABLE = 'src_cars_info'
 
 current_time = datetime.now().strftime("%Y%m%d%H%M%S")
