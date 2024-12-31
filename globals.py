@@ -1,9 +1,9 @@
 import logging
 from datetime import datetime
 
-DB_URL = 'postgresql://postgres:postgres@localhost:5432/postgres'
-SOURCE_DATA_DIR = 'C:/Users/bidem/Projects/git/cars_info_scraper/data'
-ARCHIVE_DATA_DIR = 'C:/Users/bidem/Projects/git/cars_info_loader/data'
+DB_URL = 'postgresql://postgres:postgres@localhost:5432/autochek'
+SOURCE_DATA_DIR = '../cars_info_proj_data/source' 
+ARCHIVE_DATA_DIR = '../cars_info_proj_data/archive'
 CARS_INFO_TABLE = 'src_cars_info'
 
 current_time = datetime.now().strftime("%Y%m%d%H%M%S")

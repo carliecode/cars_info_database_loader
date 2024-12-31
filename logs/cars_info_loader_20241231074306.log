@@ -1,0 +1,6 @@
+2024-12-31 07:43:06,650 - INFO - Starting data loading process...
+2024-12-31 07:43:07,691 - INFO - Data 2024-12-30.json successfully written to the database.
+2024-12-31 07:43:07,691 - INFO - The file 2024-12-30.json has been moved to ../cars_info_proj_data/archive
+2024-12-31 07:43:07,707 - INFO - Data 2024-12-31.json successfully written to the database.
+2024-12-31 07:43:07,707 - INFO - The file 2024-12-31.json has been moved to ../cars_info_proj_data/archive
+2024-12-31 07:43:07,722 - INFO - Data loading process completed.
