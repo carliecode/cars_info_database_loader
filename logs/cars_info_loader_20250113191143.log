@@ -1,0 +1,5 @@
+2025-01-13 19:12:01,458 - ERROR - Error in load_data_into_bigquery(): 400 Syntax error: Unclosed identifier literal at [1:29]; reason: invalidQuery, location: query, message: Syntax error: Unclosed identifier literal at [1:29]
+
+Location: US
+Job ID: 95048ade-bcc2-4c7d-835e-0ed0b516f128
+

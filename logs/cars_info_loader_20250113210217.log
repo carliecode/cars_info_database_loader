@@ -1,0 +1,2 @@
+2025-01-13 21:08:28,072 - INFO - Data successfully written to BigQuery table: applied-oxygen-284218.classified_data_scraping.src_jiji_cars_info
+2025-01-13 21:09:36,287 - ERROR - Error in load_bigquery_staging_table(): 'str' object is not callable

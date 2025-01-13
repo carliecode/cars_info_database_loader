@@ -1,0 +1,1 @@
+2025-01-13 18:15:31,926 - ERROR - Error in load_data_into_bigquery(): Could not determine schema for table 'applied-oxygen-284218.classified_data_scraping.stg_jiji_cars_information'. Call client.get_table() or pass in a list of schema fields to the selected_fields argument.

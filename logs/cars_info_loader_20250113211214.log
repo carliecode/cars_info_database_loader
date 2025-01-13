@@ -1,0 +1,2 @@
+2025-01-13 21:14:47,701 - INFO - No new unique records to insert.
+2025-01-13 21:15:02,123 - ERROR - Error in load_bigquery_staging_table(): module 'big_query_scripts' has no attribute 'stg_jiji_cars_info_script'

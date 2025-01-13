@@ -1,0 +1,2 @@
+2025-01-13 21:19:33,982 - INFO - No new unique records to insert.
+2025-01-13 21:24:08,164 - ERROR - Error in load_bigquery_staging_table(): 'NoneType' object is not callable

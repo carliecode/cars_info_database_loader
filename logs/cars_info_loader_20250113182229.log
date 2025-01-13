@@ -1,0 +1,1 @@
+2025-01-13 18:23:09,741 - ERROR - Error in load_data_into_bigquery(): The number of row fields (973) does not match schema length (1).
